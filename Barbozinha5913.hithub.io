@@ -97,4 +97,5 @@
         setInterval(atualizarContador, 1000); // Atualiza a cada segundo
     </script>
 </body>
+
 </html>
